@@ -2,7 +2,7 @@
 
 > 定制化构建, 仿 vue-cli 2.0 目录结构, 网页端单页面应用
 
-> webpack4.0, vue, stylus, element-ui, axios, zepto, eslint .etc
+> webpack4.0, vue, stylus, element-ui, axios, eslint .etc
 
 ## 构建说明
 
