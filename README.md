@@ -35,6 +35,7 @@ npm install nrm -g --registry=https://registry.npm.taobao.org
 - src/components/    => 组件
 - src/router/        => 页面路由配置
 - src/views/         => 页面视图
+- theme/             => element主题文件
 - package.json       => 项目基本信息
 
 ## webpack 使用文档
